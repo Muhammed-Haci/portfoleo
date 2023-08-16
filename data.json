@@ -1,0 +1,138 @@
+{
+  "skills": [
+    {
+      "name": "english",
+      "progress": 80
+    },
+    {
+      "name": "Turkish",
+      "progress": 90
+    },
+    {
+      "name": "Arabic",
+      "progress": 100
+    },
+    {
+      "name": "html",
+      "progress": 90
+    },
+    {
+      "name": "pug",
+      "progress": 85
+    },
+    {
+      "name": "css",
+      "progress": 85
+    },
+    {
+      "name": "sass",
+      "progress": 80
+    },
+    {
+      "name": "bootstrap",
+      "progress": 85
+    },
+    {
+      "name": "javascript",
+      "progress": 75
+    },
+    {
+      "name": "react",
+      "progress": 70
+    },
+    {
+      "name": "next",
+      "progress": 65
+    },
+    {
+      "name": "gulp",
+      "progress": 70
+    }
+  ],
+  "projects": [
+    {
+      "name": "piramit",
+      "category": "javascript",
+      "height": 1510,
+      "image": "./assets/images/piramit.png",
+      "technologies": [
+        "pug",
+        " sass",
+        " javascript"
+      ],
+      "description": "A Website for a Turkish company that serves building Websites for other companies and customers.",
+      "demo": "https://muhammed-haci.github.io/piramit/",
+      "code": "https://github.com/Muhammed-Haci/piramit"
+    },
+    {
+      "name": "Jennifer",
+      "category": "javascript",
+      "height": 3416.7,
+      "image": "./assets/images/jennifer.png",
+      "technologies": [
+        "pug",
+        " sass",
+        " javascript"
+      ],
+      "description": "A personal Website.",
+      "demo": "https://muhammed-haci.github.io/jennifer/",
+      "code": "https://github.com/Muhammed-Haci/jennifer"
+    },
+    {
+      "name": "elif",
+      "category": "react",
+      "height": 1236.8,
+      "image": "./assets/images/elif.png",
+      "technologies": [
+        "pug",
+        " sass",
+        " javascript"
+      ],
+      "description": "A personal Website.",
+      "demo": "https://muhammed-haci.github.io/elif/",
+      "code": "https://github.com/Muhammed-Haci/elif"
+    },
+    {
+      "name": "bondi",
+      "category": "react",
+      "height": 1127.5,
+      "image": "./assets/images/bondi.png",
+      "technologies": [
+        "pug",
+        " sass",
+        " javascript"
+      ],
+      "description": "A Website made for practicing.",
+      "demo": "https://muhammed-haci.github.io/bondi/",
+      "code": "https://github.com/Muhammed-Haci/bondi"
+    },
+    {
+      "name": "kasper",
+      "category": "next",
+      "height": 2153.3,
+      "image": "./assets/images/kasper.png",
+      "technologies": [
+        "pug",
+        " sass",
+        " javascript"
+      ],
+      "description": "A Website made for practicing.",
+      "demo": "https://muhammed-haci.github.io/kasper/",
+      "code": "https://github.com/Muhammed-Haci/kasper"
+    },
+    {
+      "name": "leon",
+      "category": "next",
+      "height": 900.55,
+      "image": "./assets/images/leon.png",
+      "technologies": [
+        "pug",
+        " sass",
+        " javascript"
+      ],
+      "description": "A Website made for practicing.",
+      "demo": "https://muhammed-haci.github.io/leon/",
+      "code": "https://github.com/Muhammed-Haci/leon"
+    }
+  ]
+}
