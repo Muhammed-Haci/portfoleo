@@ -201,13 +201,7 @@ html[color_scheme="light"] {
   transform: scaleX(-1);
 }
 [lang="ar"] .hero .image-wrapper img:nth-of-type(2) {
-  transform: scaleX(-1);
-}
-[lang="ar"] header .container a span > span {
-  letter-spacing: 0;
-}
-[lang="ar"] header .settings a {
-  background-color: #241c3b;
+  transform: scaleX(1) !important;
 }
 /* ====== End Languages' Rules ==========*/
 /* ======= Start common Styles ========= */
@@ -344,6 +338,10 @@ header .container input[type="checkbox"]::before {
 .hero .info a:is(:hover, :focus) {
   transform: translate(4px, 4px);
   box-shadow: none;
+}
+.hero .info a img {
+  width: 20px;
+  margin-inline-start: 5px;
 }
 .hero .image-wrapper {
   position: relative;
@@ -601,6 +599,13 @@ header .container input[type="checkbox"]::before {
   color: var(--info-clr);
   transform: rotateY(180deg);
   background-color: var(--fg-clr);
+}
+.projects .face.back .details p:last-of-type {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
 }
 .projects .face.back span {
   font-weight: 700;
